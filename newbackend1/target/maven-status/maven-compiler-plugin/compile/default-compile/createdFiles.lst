@@ -1,0 +1,5 @@
+com\niit\model\productmodel.class
+com\niit\hibernet\hibernetconfig.class
+com\niit\dao\DAO.class
+com\niit\daoimpl\DAOimpl.class
+com\example\newbackend1\App.class
